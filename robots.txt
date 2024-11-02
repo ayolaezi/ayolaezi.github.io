@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayolaezi.github.io/BKm/sitemap_index.txt
+Sitemap: https://ayolaezi.github.io/Yhm/sitemap_index.txt
+Sitemap: https://ayolaezi.github.io/eIN/sitemap_index.txt
+Sitemap: https://ayolaezi.github.io/vJp/sitemap_index.txt
